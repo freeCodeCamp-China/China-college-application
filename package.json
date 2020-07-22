@@ -1,5 +1,5 @@
 {
-  "name": "china-college-application",
+  "name": "college-applier",
   "version": "1.0.0",
   "license": "AGPL-3.0",
   "homepage": "https://professortian.net/",
@@ -10,6 +10,9 @@
   "bugs": {
     "url": "https://github.com/stonelf/China-college-application/issues"
   },
+  "contributors": [
+    "shiy2008@gmail.com"
+  ],
   "main": "source/index.html",
   "devDependencies": {
     "husky": "^4.2.5",
