@@ -1,7 +1,7 @@
 {
   "name": "填教授",
   "short_name": "填教授",
-  "start_url": "https://college-applier.fcc-cd.dev/",
+  "start_url": "/",
   "description": "高考志愿填报助手",
   "scope": "/",
   "display": "standalone",
@@ -14,7 +14,7 @@
     {
       "src": "images/logo.png",
       "type": "image/png",
-      "sizes": "256x256"
+      "sizes": "128x128"
     }
   ]
 }
